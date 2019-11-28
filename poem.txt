@@ -1,2 +1,4 @@
 red green blue
+basic colors
 you all are demons
+yellow 
